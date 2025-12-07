@@ -1,0 +1,42 @@
+{
+  "contacts": [
+    {
+      "name": "John Doe Updated",
+      "email": "johndoe@gmail.com",
+      "userId": "1",
+      "id": "1"
+    },
+    {
+      "id": "b0d5",
+      "name": "Tara",
+      "email": "tara@yahoo.com",
+      "userId": "1"
+    },
+    {
+      "id": "d6f5",
+      "name": "abbcd",
+      "email": "acdc@gmail.com",
+      "userId": "921b"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": "2",
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "abc123"
+    },
+    {
+      "id": "921b",
+      "name": "user3",
+      "email": "user3@gmail.com",
+      "password": "abc123"
+    }
+  ]
+}
